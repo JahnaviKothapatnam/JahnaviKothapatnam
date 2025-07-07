@@ -15,5 +15,5 @@ TECHNIQUES: Predictive Analytics,Google Big Query,Data Visualization.
 - **Atrias (Fluvius, Ores, Sibelga, Resa, Arewal)**: Predictive model using sql & Google Analytics
 
 ## 📫 How to reach me:
-- [LinkedIn](www.linkedin.com/in/jahnavikothapatnam)
+- www.linkedin.com/in/jahnavikothapatnam
 - 📧 kothapatnamjahnavi@gmail.com

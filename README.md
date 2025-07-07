@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I am Jahnavi
+Data Analyst | 3.6 Years of Experience | Turning Data into Strategic Insights
+Experienced Data Analyst with 3.6 years of hands-on expertise in data visualization, statistical analysis, and transforming complex datasets into actionable business insights. Proven track record of leveraging data to support strategic decision-making and drive business growth. Passionate about delivering clear, impactful visualizations and uncovering trends that lead to smarter, data-driven strategies.
 
-<!--
-**JahnaviKothapatnam/JahnaviKothapatnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tools & Technologies
+Databases:  MySQL, SQL Server.
+BI/Reporting Tools:  MS-Excel (Advanced),Power BI (Desktop) & Tableau.
+ETL Process & ETL tools: Power Query & Excel.
+Utilities: SQL Server Management Studio (SSMS)
+Languages: SQL, DAX, Python.
+TECHNIQUES: Predictive Analytics,Google Big Query,Data Visualization.
 
-Here are some ideas to get you started:
+## 📈 Featured Projects
+- **Transportation & Logistics Tracker.** (Power BI): Visualized key logistics metrics performance using DAX measures.
+- **Atrias (Fluvius, Ores, Sibelga, Resa, Arewal)**: Predictive model using sql & Google Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- [LinkedIn](www.linkedin.com/in/jahnavikothapatnam)
+- 📧 kothapatnamjahnavi@gmail.com
